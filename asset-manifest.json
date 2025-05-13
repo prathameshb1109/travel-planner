@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/travel-planner/static/css/main.3e70fa2c.css",
-    "main.js": "/travel-planner/static/js/main.d45c23ad.js",
-    "static/js/239.dfdb0d71.chunk.js": "/travel-planner/static/js/239.dfdb0d71.chunk.js",
+    "main.js": "/travel-planner/static/js/main.384a343e.js",
     "static/js/977.d75cf9f7.chunk.js": "/travel-planner/static/js/977.d75cf9f7.chunk.js",
     "static/js/732.0eb8fd42.chunk.js": "/travel-planner/static/js/732.0eb8fd42.chunk.js",
     "static/js/453.d855a71b.chunk.js": "/travel-planner/static/js/453.d855a71b.chunk.js",
@@ -10,7 +9,7 @@
     "static/media/hotel-background.jpg": "/travel-planner/static/media/hotel-background.bcc5ffbbacc1c0673bcc.jpg",
     "static/media/hotel.png": "/travel-planner/static/media/hotel.f7f447fb923a5556b10f.png",
     "static/media/logo.png": "/travel-planner/static/media/logo.939799031a0de9e0f8e6.png",
-    "static/media/train.png": "/travel-planner/static/media/train.26ec38640997cff5b5b4.png",
+    "static/media/movies.png": "/travel-planner/static/media/movies.8610daba7f287debac6b.png",
     "static/media/airplane.png": "/travel-planner/static/media/airplane.f2b74ef04299a2757ed3.png",
     "static/media/slick.svg": "/travel-planner/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/travel-planner/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -18,13 +17,12 @@
     "static/media/slick.woff": "/travel-planner/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/travel-planner/index.html",
     "main.3e70fa2c.css.map": "/travel-planner/static/css/main.3e70fa2c.css.map",
-    "main.d45c23ad.js.map": "/travel-planner/static/js/main.d45c23ad.js.map",
-    "239.dfdb0d71.chunk.js.map": "/travel-planner/static/js/239.dfdb0d71.chunk.js.map",
+    "main.384a343e.js.map": "/travel-planner/static/js/main.384a343e.js.map",
     "732.0eb8fd42.chunk.js.map": "/travel-planner/static/js/732.0eb8fd42.chunk.js.map",
     "453.d855a71b.chunk.js.map": "/travel-planner/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e70fa2c.css",
-    "static/js/main.d45c23ad.js"
+    "static/js/main.384a343e.js"
   ]
 }
